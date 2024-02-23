@@ -1,3 +1,8 @@
+/*
+* @author inclyped
+*/
+
+
 import java.util.Scanner;
 
 public class GameDriver {
